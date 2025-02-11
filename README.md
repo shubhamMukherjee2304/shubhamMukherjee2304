@@ -1,7 +1,7 @@
 ## 🚀 Languages & Backend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/download/303360/nodejs-logo.svg" alt="Node.js" width="70" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" width="70" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
   <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20150038/grpc-logo-561C1563B1-seeklogo.com.png" alt="gRPC" width="70" height="50"/>
