@@ -6,6 +6,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
   <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20150038/grpc-logo-561C1563B1-seeklogo.com.png" alt="gRPC" width="70" height="50"/>
   <img src="https://www.opc-router.com/wp-content/uploads/2020/05/REST_socialmedia.jpg" alt="REST API" width="50" height="50"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="Kafka" width="50" height="50"/>
 </p>
 
 ## 🎨 Frontend
@@ -29,22 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/>
 </p>
 
-## ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" alt="Kafka" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/50/continuous-integration.png" alt="CI/CD" width="50" height="50"/>
-</p>
-
 ## 🛠️ Tools & Technologies
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://static.cdnlogo.com/logos/c/81/clerk.svg" alt="Clerk" width="50" height="50"/>
+  <img src="https://pipedream.com/s.v0/app_dBhw8k/logo/orig" alt="Clerk" width="50" height="50"/>
 </p>
 
 ## 🏆 Problem Solving
