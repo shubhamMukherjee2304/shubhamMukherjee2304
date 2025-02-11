@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/ClickHouse_logo.svg" alt="ClickHouse" width="50" height="50"/>
+  <img src="https://www.google.com/imgres?q=clickhose%20icon&imgurl=https%3A%2F%2Ficon-icons.com%2Ficons2%2F3911%2FPNG%2F512%2Fclickhouse_logo_icon_247349.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fclickhouse-logo%2F247349&docid=BL7MiCCHMa3YHM&tbnid=Lu3rDZrFHL1CmM&vet=12ahUKEwjdptqn37qLAxVn1zgGHfjmBXgQM3oECFIQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjdptqn37qLAxVn1zgGHfjmBXgQM3oECFIQAA" alt="ClickHouse" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/>
 </p>
 
