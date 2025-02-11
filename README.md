@@ -4,7 +4,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC" width="50" height="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg](https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20150038/grpc-logo-561C1563B1-seeklogo.com.png)" alt="gRPC" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/REST_API_Logo.svg" alt="REST API" width="50" height="50"/>
 </p>
 
