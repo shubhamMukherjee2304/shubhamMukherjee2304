@@ -44,7 +44,8 @@
 ## 🏆 Problem Solving
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/GeeksforGeeks_logo.svg" alt="GeeksforGeeks" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="GeeksforGeeks" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoz_SWCrvh5AvweMU1luSwTWQjsNUBJXj3A&s" alt="GeeksforGeeks" width="50" height="50"/>
 </p>
 
 
